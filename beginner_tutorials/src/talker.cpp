@@ -4,7 +4,6 @@
 #include <sstream>
 int main(int argc, char **argv)
 {
-  argc=argc;
   /**
    * The ros::init() function needs to see argc and argv so that it can perform
    * any ROS arguments and name remapping that were provided at the command line. For programmatic
